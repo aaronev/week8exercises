@@ -1,0 +1,1 @@
+document.getElementsByClassName("two")[0].style.backgroundColor="pink"
