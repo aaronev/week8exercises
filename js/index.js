@@ -13,3 +13,6 @@ var newPTag = document.createElement("p")
 
 var pElementWithText = newPTag.textContent = "p text node"
 var h1WithTextNode = newH1.appendChild(pElementWithText)
+
+var newImg = document.createElement('img')
+var newButton = document.createElement('button')
